@@ -6,9 +6,11 @@ Software developer @ Bitlearns · ES @ Inteli · São Paulo
 
 ### Bitlearns
 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PDFKit](https://img.shields.io/badge/PDFKit-EC1C24?logo=adobeacrobatreader&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
-Plataforma de livros didáticos para publishers. Editor visual em Next.js e pipeline de exportação PDF em Node/PDFKit.
+Infraestrutura digital com IA para editoras educacionais. Plataforma white-label que distribui o catálogo do parceiro, gera material complementar a partir do próprio conteúdo e traz ferramentas de autoria — com integração via SCORM/LMS (Moodle, Canvas, D2L) e adaptação de conteúdo para diferentes perfis de aprendizagem.
+
+Trabalho principalmente no **editor visual de livros** (Next.js, blocos arrastáveis, componentes interativos) e no **pipeline de exportação PDF** (Node + PDFKit), que permite gerar versões impressas fiéis do que é editado no navegador.
 
 ### Projetos próprios
 
