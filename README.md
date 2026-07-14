@@ -31,7 +31,7 @@ O servidor funciona também como ambiente de estudo. É onde experimento coisas 
 
 ### Projetos do Inteli
 
-Um projeto de grupo por semestre, com parceiro real.
+Um projeto de grupo por trimestre, com parceiro real.
 
 | Semestre | Projeto | Parceiro |
 |---|---|---|
