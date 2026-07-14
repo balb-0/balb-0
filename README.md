@@ -25,7 +25,7 @@ Trabalho principalmente no **editor visual de livros** (Next.js, blocos arrastá
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?logo=cloudflare&logoColor=white) ![Netbird](https://img.shields.io/badge/Netbird-1F1F1F?logo=wireguard&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
-Todos os projetos acima estão auto-hospedados num servidor Debian caseiro (`imrryr`). Cada app roda via `docker-compose` isolado, exposto para a internet através de **Cloudflare Tunnels** — sem portas abertas no host. Acesso administrativo é feito pela mesh **Netbird**. Em cima disso rodam ainda **Planka** (Kanban), **Grafana** + **Dozzle** (métricas e logs), **Nextcloud** e **Pi-hole**.
+Todos os projetos acima estão auto-hospedados num servidor Debian caseiro (`imrryr`). Cada app roda isolado, exposto para a internet através de **Cloudflare Tunnels** — sem portas abertas no host. Acesso administrativo é feito pela mesh **Netbird**. Em cima disso rodam ainda **Planka** (Kanban), **Grafana** + **Dozzle** (métricas e logs), **Nextcloud** e **Pi-hole**.
 
 O servidor funciona também como ambiente de estudo. É onde experimento coisas antes de encostar em produto de verdade: rotinas de backup, CI self-hosted, orquestração além do compose, observabilidade. Os temas que mais tenho estudado são rede (mesh e tunnels) e padrões de deploy fora de PaaS.
 
