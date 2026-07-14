@@ -42,7 +42,7 @@ Um projeto de grupo por semestre, com parceiro real.
 | 2025/1B | [DIANA](https://github.com/balb-0/DIANA) | BTG Pactual |
 | 2025/1A | [LinkUp](https://github.com/balb-0/LinkUp) | Centro Paula Souza |
 | 2024/2B | [IPTecos](https://github.com/balb-0/IPTecos) | IPT |
-| 2024/2A | [sapientIA](https://github.com/balb-0/sapientIA) | A Gazeta |
+| 2024/2A | [sapientIA](https://github.com/balb-0/sapientIA) | Rede Gazeta |
 | 2024/1B | [C³ Code Connecting Cultures](https://github.com/balb-0/C3-Code-Connecting-Cultures) | Zuyd (NL) |
 | 2024/1A | [UniWorld](https://github.com/balb-0/UniWorld) | Unilever |
 
