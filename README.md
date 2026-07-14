@@ -6,9 +6,13 @@ Software developer @ Bitlearns · ES @ Inteli · São Paulo
 
 ### Bitlearns
 
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PDFKit](https://img.shields.io/badge/PDFKit-EC1C24?logo=adobeacrobatreader&logoColor=white)
+
 Plataforma de livros didáticos para publishers. Editor visual em Next.js e pipeline de exportação PDF em Node/PDFKit.
 
 ### Projetos próprios
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black)
 
 - **Carrerium** — teste de aptidão vocacional
 - **Mindlevel** — teste de QI com scoring e analytics
@@ -16,6 +20,8 @@ Plataforma de livros didáticos para publishers. Editor visual em Next.js e pipe
 - **Deyno** — gestão financeira pessoal
 
 ### Infra
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnels-F38020?logo=cloudflare&logoColor=white) ![Netbird](https://img.shields.io/badge/Netbird-1F1F1F?logo=wireguard&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 
 Todos os projetos acima estão auto-hospedados num servidor Debian caseiro (`imrryr`). Cada app roda via `docker-compose` isolado, exposto para a internet através de **Cloudflare Tunnels** — sem portas abertas no host. Acesso administrativo é feito pela mesh **Netbird**. Em cima disso rodam ainda **Planka** (Kanban), **Grafana** + **Dozzle** (métricas e logs), **Nextcloud** e **Pi-hole**.
 
@@ -40,4 +46,6 @@ Um projeto de grupo por semestre, com parceiro real.
 
 ---
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balb-0&layout=compact&theme=dark&hide=jupyter%20notebook)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,postgres,docker,linux,grafana,cloudflare&perline=8" alt="Stack" />
+</p>
